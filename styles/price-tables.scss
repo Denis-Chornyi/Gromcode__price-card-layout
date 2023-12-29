@@ -48,7 +48,7 @@
 
   &__options-list-item {
     text-align: left;
-    padding: 16px 59px;
+    padding: 15px 59px 17px 59px;
     max-height: 50px;
   }
 }
@@ -58,7 +58,7 @@
   }
   &-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png)
-      no-repeat 22px 18px;
+      no-repeat 22px 17px;
   }
   &-button {
     background-color: $color-green-light;
