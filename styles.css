@@ -36,7 +36,7 @@
   padding: 19px 0;
 }
 .price-card__description {
-  margin: 40px 26px;
+  margin: 38px 26px;
 }
 .price-card__options-list :nth-child(odd) {
   background-color: rgba(42, 52, 56, 0.5019607843);
