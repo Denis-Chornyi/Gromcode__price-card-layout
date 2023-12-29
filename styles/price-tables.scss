@@ -58,7 +58,7 @@
   }
   &-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png)
-      no-repeat 22px 16px;
+      no-repeat 22px 17px;
   }
   &-button {
     background-color: $color-green-light;
@@ -73,7 +73,7 @@
   }
   &-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png)
-      no-repeat 22px 18px;
+      no-repeat 22px 17px;
   }
   &-button {
     background-color: $color-blue;
@@ -86,8 +86,8 @@
   }
   &-popular-text {
     position: absolute;
-    top: 32px;
-    right: 8px;
+    top: 34px;
+    right: 7px;
     transform: rotate(45deg);
     font-size: 14px;
     font-weight: 700;
@@ -101,10 +101,7 @@
   }
   &-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png)
-      no-repeat 22px 18px;
-  }
-  &-description {
-    font-weight: 400;
+      no-repeat 22px 17px;
   }
   &-button {
     background-color: $color-orange;

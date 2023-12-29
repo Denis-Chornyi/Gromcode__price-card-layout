@@ -51,7 +51,7 @@
   background-color: #5bb189;
 }
 .basic__card-checkmark {
-  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png) no-repeat 22px 16px;
+  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png) no-repeat 22px 17px;
 }
 .basic__card-button {
   background-color: #5bb189;
@@ -64,7 +64,7 @@
   background-color: #3a6ba5;
 }
 .business__card-checkmark {
-  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png) no-repeat 22px 18px;
+  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png) no-repeat 22px 17px;
 }
 .business__card-button {
   background-color: #3a6ba5;
@@ -76,8 +76,8 @@
 }
 .business__card-popular-text {
   position: absolute;
-  top: 32px;
-  right: 8px;
+  top: 34px;
+  right: 7px;
   transform: rotate(45deg);
   font-size: 14px;
   font-weight: 700;
@@ -89,10 +89,7 @@
   background-color: #ec632a;
 }
 .webshop__card-checkmark {
-  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png) no-repeat 22px 18px;
-}
-.webshop__card-description {
-  font-weight: 400;
+  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png) no-repeat 22px 17px;
 }
 .webshop__card-button {
   background-color: #ec632a;
@@ -123,7 +120,7 @@ li {
 
 .price-card__order-btn {
   margin: 39px 0 40px 0;
-  padding: 12px 29px 12px 28px;
+  padding: 12px 30px 12px 29px;
   border-radius: 20px;
   color: #fff;
   font-weight: 400;
