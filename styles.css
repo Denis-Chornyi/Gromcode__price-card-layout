@@ -38,7 +38,7 @@
   margin: 40px 26px;
 }
 .price-card__options-list :nth-child(odd) {
-  background-color: #2a3438;
+  background-color: rgba(42, 52, 56, 0.5019607843);
 }
 .price-card__options-list-item {
   text-align: left;
@@ -74,8 +74,8 @@
 }
 .business__card-popular-text {
   position: absolute;
-  top: 33px;
-  right: 9px;
+  top: 34px;
+  right: 8px;
   transform: rotate(45deg);
   font-size: 14px;
   font-weight: 700;
@@ -120,9 +120,10 @@ li {
 }
 
 .price-card__order-btn {
-  margin: 40px 0;
-  padding: 12px 27px;
+  margin: 39px 0 40px 0;
+  padding: 11px 27px 12px 26px;
   border-radius: 20px;
+  color: #fff;
   font-weight: 400;
   border: 0;
   outline: 0;
