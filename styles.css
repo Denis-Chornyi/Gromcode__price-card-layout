@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+.price-tables {
+  background-color: #000;
+  color: #fff;
+}
+.price-tables__container {
+  padding: 115px 132px;
+  display: flex;
+}
+.price-tables__container :last-child {
+  margin-right: 0;
+}
+
+.price-card {
+  width: 32.4%;
+  background: #334247;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.09);
+  text-align: center;
+  margin-right: 18px;
+}
+.price-card__title {
+  margin-top: 33px;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 43px;
+}
+.price-card__title-less {
+  font-size: 20px;
+  margin-bottom: 33px;
+}
+.price-card__price {
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+  padding: 19px 0;
+}
+.price-card__description {
+  margin: 40px 26px;
+}
+.price-card__options-list :nth-child(odd) {
+  background-color: #2a3438;
+}
+.price-card__options-list-item {
+  text-align: left;
+  padding: 16px 59px;
+}
+
+.basic__card-price {
+  background-color: #5bb189;
+}
+.basic__card-checkmark {
+  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png) no-repeat 22px 18px;
+}
+.basic__card-button {
+  background-color: #5bb189;
+}
+
+.business__card {
+  position: relative;
+}
+.business__card-price {
+  background-color: #3a6ba5;
+}
+.business__card-checkmark {
+  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png) no-repeat 22px 18px;
+}
+.business__card-button {
+  background-color: #3a6ba5;
+}
+.business__card-popular-svg {
+  position: absolute;
+  top: -1px;
+  right: -1px;
+}
+.business__card-popular-text {
+  position: absolute;
+  top: 33px;
+  right: 9px;
+  transform: rotate(45deg);
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+.webshop__card-price {
+  background-color: #ec632a;
+}
+.webshop__card-checkmark {
+  background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png) no-repeat 22px 18px;
+}
+.webshop__card-description {
+  font-weight: 400;
+}
+.webshop__card-button {
+  background-color: #ec632a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+h2,
+h3,
+p,
+ul,
+li {
+  line-height: normal;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.price-card__order-btn {
+  margin: 40px 0;
+  padding: 12px 27px;
+  border-radius: 20px;
+  font-weight: 400;
+  border: 0;
+  outline: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
+@import "./styles/variables.scss";
+@import "./styles/price-tables.scss";
+
+* {
+  box-sizing: border-box;
+}
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+}
+h2,
+h3,
+p,
+ul,
+li {
+  line-height: normal;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.price-card__order-btn {
+  margin: 40px 0;
+  padding: 12px 27px;
+  border-radius: 20px;
+  font-weight: 400;
+  border: 0;
+  outline: 0;
+}

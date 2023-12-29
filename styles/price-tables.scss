@@ -1,0 +1,110 @@
+.price-tables {
+  background-color: $color-black;
+  color: $text-color-white;
+
+  &__container {
+    padding: 115px 132px;
+    display: flex;
+
+    :last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+.price-card {
+  width: 32.4%;
+  background: $color-asphalt;
+  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.09);
+  text-align: center;
+  margin-right: 18px;
+
+  &__title {
+    margin-top: 33px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 43px;
+  }
+  &__title-less {
+    font-size: 20px;
+    margin-bottom: 33px;
+  }
+  &__price {
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 19px 0;
+  }
+
+  &__description {
+    margin: 40px 26px;
+  }
+  &__options-list {
+    :nth-child(odd) {
+      background-color: $color-dark-grey;
+    }
+  }
+
+  &__options-list-item {
+    text-align: left;
+    padding: 16px 59px;
+  }
+}
+.basic__card {
+  &-price {
+    background-color: $color-green-light;
+  }
+  &-checkmark {
+    background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png)
+      no-repeat 22px 18px;
+  }
+  &-button {
+    background-color: $color-green-light;
+  }
+}
+
+.business__card {
+  position: relative;
+
+  &-price {
+    background-color: $color-blue;
+  }
+  &-checkmark {
+    background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png)
+      no-repeat 22px 18px;
+  }
+  &-button {
+    background-color: $color-blue;
+  }
+
+  &-popular-svg {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+  }
+  &-popular-text {
+    position: absolute;
+    top: 33px;
+    right: 9px;
+    transform: rotate(45deg);
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    z-index: 1;
+  }
+}
+.webshop__card {
+  &-price {
+    background-color: $color-orange;
+  }
+  &-checkmark {
+    background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png)
+      no-repeat 22px 18px;
+  }
+  &-description {
+    font-weight: 400;
+  }
+  &-button {
+    background-color: $color-orange;
+  }
+}
