@@ -36,7 +36,7 @@
   padding: 19px 0;
 }
 .price-card__description {
-  margin: 38px 26px;
+  margin: 36px 26px;
 }
 .price-card__options-list :nth-child(odd) {
   background-color: rgba(42, 52, 56, 0.5019607843);
@@ -76,7 +76,7 @@
 }
 .business__card-popular-text {
   position: absolute;
-  top: 34px;
+  top: 32px;
   right: 8px;
   transform: rotate(45deg);
   font-size: 14px;
