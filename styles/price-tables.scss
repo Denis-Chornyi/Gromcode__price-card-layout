@@ -38,7 +38,8 @@
   }
 
   &__description {
-    margin: 39px 26px;
+    margin: 40px 26px;
+    line-height: 18px;
   }
   &__options-list {
     :nth-child(odd) {
@@ -86,8 +87,8 @@
   }
   &-popular-text {
     position: absolute;
-    top: 34px;
-    right: 7px;
+    top: 33px;
+    right: 8px;
     transform: rotate(45deg);
     font-size: 14px;
     font-weight: 700;
