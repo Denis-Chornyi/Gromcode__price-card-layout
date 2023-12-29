@@ -4,7 +4,7 @@
   color: #fff;
 }
 .price-tables__container {
-  padding: 60px 132px;
+  padding: 55px 132px 60px 132px;
   display: flex;
 }
 .price-tables__container :last-child {
