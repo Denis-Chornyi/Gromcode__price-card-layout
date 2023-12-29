@@ -70,20 +70,10 @@
 .business__card-button {
   background-color: #3a6ba5;
 }
-.business__card-popular-svg {
+.business__card-popular-img {
   position: absolute;
-  top: -1px;
-  right: -1px;
-}
-.business__card-popular-text {
-  position: absolute;
-  top: 33px;
-  right: 7px;
-  transform: rotate(45deg);
-  font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase;
-  z-index: 1;
+  top: -18px;
+  right: -18px;
 }
 
 .webshop__card-price {
