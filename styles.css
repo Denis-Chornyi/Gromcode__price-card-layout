@@ -4,20 +4,18 @@
   color: #fff;
 }
 .price-tables__container {
-  padding: 65px 132px 60px 132px;
+  height: 100vh;
+  gap: 0 18px;
   display: flex;
-}
-.price-tables__container :last-child {
-  margin-right: 0;
+  align-items: center;
 }
 
 .price-card {
-  width: 32.4%;
+  width: 380px;
   max-height: 770px;
   background: #334247;
   box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.09);
   text-align: center;
-  margin-right: 18px;
 }
 .price-card__title {
   margin-top: 33px;
@@ -96,6 +94,7 @@ body {
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
   font-weight: 300;
+  background-color: #000;
 }
 
 h2,
