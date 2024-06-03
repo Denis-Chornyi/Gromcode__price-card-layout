@@ -7,4 +7,4 @@
 - [Sass (Scss)](https://sass-lang.com/documentation/)
 - [BEM methodology](https://en.bem.info/methodology/)
 
-### [GitHub Page](https://github.com/Denis-Chornyi/gromcode.git)
+### [GitHub Page](https://denis-chornyi.github.io/Gromcode_figma/)
