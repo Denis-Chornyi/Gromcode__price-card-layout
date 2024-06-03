@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap");
 .price-tables {
-  background-color: #000;
+  background-color: #141B1C;
   color: #fff;
-}
-.price-tables__container {
   height: 100vh;
   gap: 0 18px;
   display: flex;

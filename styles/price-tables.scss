@@ -1,14 +1,11 @@
 .price-tables {
-  background-color: $color-black;
+  background-color: $background-color;
   color: $text-color-white;
-
-  &__container {
-    height: 100vh;
-    gap: 0 18px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+  height: 100vh;
+  gap: 0 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .price-card {
