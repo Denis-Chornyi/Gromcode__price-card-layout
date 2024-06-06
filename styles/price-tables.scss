@@ -12,7 +12,7 @@
   width: 380px;
   max-height: 770px;
   background: $color-asphalt;
-  box-shadow: 0px 6px 6px 0px rgba(0, 0, 0, 0.09);
+  box-shadow: 0px 6px 6px 0px #00000017;
   text-align: center;
 
   &__title {
@@ -73,7 +73,7 @@
   &__card-price {
     background-color: $color-blue;
   }
-  
+
   &__card-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png)
       no-repeat 22px 17px;
