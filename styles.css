@@ -45,41 +45,41 @@
   max-height: 50px;
 }
 
-.basic__card__card-price {
+.basic__card-price {
   background-color: #5bb189;
 }
-.basic__card__card-checkmark {
+.basic__card-checkmark {
   background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png) no-repeat 22px 17px;
 }
-.basic__card__card-button {
+.basic__card-button {
   background-color: #5bb189;
 }
 
-.business__card {
+.business {
   position: relative;
 }
-.business__card__card-price {
+.business__card-price {
   background-color: #3a6ba5;
 }
-.business__card__card-checkmark {
+.business__card-checkmark {
   background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png) no-repeat 22px 17px;
 }
-.business__card__card-button {
+.business__card-button {
   background-color: #3a6ba5;
 }
-.business__card__card-popular-img {
+.business__card-popular-img {
   position: absolute;
   top: -18px;
   right: -18px;
 }
 
-.webshop__card__card-price {
+.webshop__card-price {
   background-color: #ec632a;
 }
-.webshop__card__card-checkmark {
+.webshop__card-checkmark {
   background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png) no-repeat 22px 17px;
 }
-.webshop__card__card-button {
+.webshop__card-button {
   background-color: #ec632a;
 }
 

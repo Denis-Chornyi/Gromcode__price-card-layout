@@ -52,7 +52,7 @@
   }
 }
 
-.basic__card {
+.basic {
   &__card-price {
     background-color: $color-green-light;
   }
@@ -67,7 +67,7 @@
   }
 }
 
-.business__card {
+.business {
   position: relative;
 
   &__card-price {
@@ -90,7 +90,7 @@
   }
 }
 
-.webshop__card {
+.webshop {
   &__card-price {
     background-color: $color-orange;
   }
