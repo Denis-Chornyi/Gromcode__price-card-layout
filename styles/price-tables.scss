@@ -53,16 +53,16 @@
 }
 
 .basic__card {
-  &-price {
+  &__card-price {
     background-color: $color-green-light;
   }
 
-  &-checkmark {
+  &__card-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png)
       no-repeat 22px 17px;
   }
 
-  &-button {
+  &__card-button {
     background-color: $color-green-light;
   }
 }
@@ -70,34 +70,37 @@
 .business__card {
   position: relative;
 
-  &-price {
+  &__card-price {
     background-color: $color-blue;
   }
-  &-checkmark {
+  
+  &__card-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png)
       no-repeat 22px 17px;
   }
-  &-button {
+
+  &__card-button {
     background-color: $color-blue;
   }
 
-  &-popular-img {
+  &__card-popular-img {
     position: absolute;
     top: -18px;
     right: -18px;
   }
 }
+
 .webshop__card {
-  &-price {
+  &__card-price {
     background-color: $color-orange;
   }
 
-  &-checkmark {
+  &__card-checkmark {
     background: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png)
       no-repeat 22px 17px;
   }
 
-  &-button {
+  &__card-button {
     background-color: $color-orange;
   }
 }
