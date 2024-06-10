@@ -11,3 +11,7 @@ Layout supports only desktop (up-to-1900) versions
 - [Sass (Scss)](https://sass-lang.com/documentation/)
 - [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 - [BEM methodology](https://en.bem.info/methodology/)
+
+### Author
+
+- [Denis Chornyi](https://github.com/Denis-Chornyi)
