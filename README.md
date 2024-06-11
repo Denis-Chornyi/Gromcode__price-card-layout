@@ -1,6 +1,6 @@
 ## Project: Price cards layout
 
-### [GitHub Page](https://denis-chornyi.github.io/Gromcode_figma/)
+### [GitHub Page](https://denis-chornyi.github.io/Gromcode__price-card-layout/)
 
 Layout supports only desktop (up-to-1900) versions
 
